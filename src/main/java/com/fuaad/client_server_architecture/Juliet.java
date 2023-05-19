@@ -1,4 +1,4 @@
-package com.example.concurrentprogramming;/*
+package com.fuaad.client_server_architecture;/*
  /*
  * Juliet.java
  *
